@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(to right, #e3f2fd, #fce4ec);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.greet-card {
+  background-color: white;
+  border-radius: 15px;
+  max-width: 500px;
+  margin: auto;
+}
